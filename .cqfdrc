@@ -1,0 +1,7 @@
+[project]
+org='mapio'
+name='bsp'
+
+[build]
+command='./build.sh --cmd build-img'
+
